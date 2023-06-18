@@ -6,7 +6,7 @@ Welcome to the new home of the SPFarmInfo Script
 2.	Launch the script .\Get-SPFarmInfo.ps1
 3.	Collect and review the HTML report
 
-# Extras
+# Extras #
 ## -PatchInfo
 You can get additional Patch Information with the -PatchInfo swtich, however this requires two things that your customer should be aware of. 
 1. A Nuget Provider is required
