@@ -19,6 +19,7 @@
     General notes
     Version 3.x
     Version 3.0
+    Version 3.1
 
 DISCLAIMER
  This script is not supported under any Microsoft standard support program or service. 
